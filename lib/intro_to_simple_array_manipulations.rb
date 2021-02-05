@@ -1,3 +1,3 @@
 def using_concat(array, arrays)
-  array.concat(array)
+  array.concat(arrays)
 end
